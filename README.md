@@ -1,4 +1,4 @@
-# NF Jubilee Toolhead
+# NFG Jubilee Toolhead
 High performance FDM 3D printing tool for the Jubilee motion system. 
 
 
