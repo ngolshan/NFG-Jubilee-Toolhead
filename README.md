@@ -14,5 +14,4 @@ Toolboard: BigTreeTech EBB42
 
 ![Front Iso View From Above](https://github.com/ngolshan/NFG-Jubilee-Toolhead/assets/87925089/67ab34ea-bd53-4099-b98d-41926b30dc3e)
 
-![Rear Iso View From Below](https://github.com/ngolshan/NFG-Jubilee-Toolhead/assets/87925089/965178f2-a71f-4ac7-a067-0442855dfc39)
-
+![Rear Iso View From Below](https://github.com/ngolshan/NFG-Jubilee-Toolhead/assets/87925089/c540fe1c-7aea-4769-b529-940e191cc554)
